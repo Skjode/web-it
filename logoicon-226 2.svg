@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="226" height="226" viewBox="0 0 226 226" class="logo logoimg">
+    <style>.logo text{color:#231f20;font-size:55px;font-weight:bold;font-family:'MyriadPro'}
+    </style>
+    <path d="M250 1715 l0 -545 470 0 470 0 -2 233 -3 232 -232 3 -233 2 0 75 0 75 310 0 310 0 0 -385 0 -385 -545 0 -545 0 0 -80 0 -80 625 0 625 0 0 545 0 545 -470 0 -470 0 0 -235 0 -235 235 0 235 0 0 -75 0 -75 -310 0 -310 0 0 385 0 385 545 0 545 0 0 80 0 80 -625 0 -625 0 0 -545z" transform="translate(25,226) scale(.1,-.1)" fill="#00478e">
+    </path>
+    <text x="25" y="200">Skjøde
+    </text>
+</svg>
