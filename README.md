@@ -4,4 +4,4 @@
 
 ## Hjemmeside
 
-[hjemmeside/README.md](![image.png](image.jpg))
+[![image.png](image.jpg)](hjemmeside/README.md)
